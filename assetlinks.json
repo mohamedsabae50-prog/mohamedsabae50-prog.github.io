@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alsaba.egyptlore",
+      "sha256_cert_fingerprints": [
+        "DD:15:B4:89:A2:16:BD:1C:68:F9:F7:65:ED:B4:B2:7F:42:4F:3D:F1:8C:53:12:39:E9:B0:42:19:7E:E5:B8:BB",
+        "A0:0E:3B:AE:86:47:16:92:95:9B:68:EF:36:98:63:88:5C:0A:0C:33:EC:1E:FA:F5:5E:09:D0:D7:35:64:6A:BD",
+        "24:19:99:2C:92:12:05:51:89:6E:DE:C4:DF:E4:72:E8:20:34:16:11:80:AC:C0:68:05:57:95:72:DA:7B:39:E9"
+      ]
+    }
+  }
+]
